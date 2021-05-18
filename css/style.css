@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+}
+.header{
+    background-color: yellow;height: 300px;
+}
+.nav{
+    background-color: tomato;width: 20%;float: left;height: 500px;
+}
+.article{
+    background-color: violet;width: 60%;float: left;height: 500px;
+}
+.ads{
+    background-color: yellowgreen;width: 20%;float: right;height: 500px;
+}   
+.naa{
+    overflow: hidden;
+}
+.footer{
+    background-color: steelblue;height: 100px;
+}
